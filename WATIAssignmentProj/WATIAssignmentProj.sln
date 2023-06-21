@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WATIAssignmentProj", "WATIAssignmentProj\WATIAssignmentProj.csproj", "{92FF47BC-02CF-41B1-984E-A6C9BF2191EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WATIAssignmentProj.Tests", "WATIAssignmentProj.Tests\WATIAssignmentProj.Tests.csproj", "{C5A93A45-77D3-4D95-A8F2-38B3C5674CFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92FF47BC-02CF-41B1-984E-A6C9BF2191EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92FF47BC-02CF-41B1-984E-A6C9BF2191EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92FF47BC-02CF-41B1-984E-A6C9BF2191EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92FF47BC-02CF-41B1-984E-A6C9BF2191EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5A93A45-77D3-4D95-A8F2-38B3C5674CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A93A45-77D3-4D95-A8F2-38B3C5674CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A93A45-77D3-4D95-A8F2-38B3C5674CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A93A45-77D3-4D95-A8F2-38B3C5674CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {973266EC-57C0-4709-9BB3-C9701E28EDCD}
+	EndGlobalSection
+EndGlobal
