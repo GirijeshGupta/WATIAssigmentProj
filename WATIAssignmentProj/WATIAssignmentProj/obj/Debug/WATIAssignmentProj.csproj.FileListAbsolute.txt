@@ -69,7 +69,6 @@ D:\temp\WATI\WATIAssigmentProj\WATIAssignmentProj\WATIAssignmentProj\bin\System.
 D:\temp\WATI\WATIAssigmentProj\WATIAssignmentProj\WATIAssignmentProj\bin\System.Web.Helpers.xml
 D:\temp\WATI\WATIAssigmentProj\WATIAssignmentProj\WATIAssignmentProj\bin\System.Web.Mvc.xml
 D:\temp\WATI\WATIAssigmentProj\WATIAssignmentProj\WATIAssignmentProj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\temp\WATI\WATIAssigmentProj\WATIAssignmentProj\WATIAssignmentProj\obj\Debug\WATIAssignmentProj.csproj.AssemblyReference.cache
 D:\temp\WATI\WATIAssigmentProj\WATIAssignmentProj\WATIAssignmentProj\obj\Debug\WATIAssignmentProj.csproj.CoreCompileInputs.cache
 D:\temp\WATI\WATIAssigmentProj\WATIAssignmentProj\WATIAssignmentProj\obj\Debug\WATIAssignmentProj.csproj.CopyComplete
 D:\temp\WATI\WATIAssigmentProj\WATIAssignmentProj\WATIAssignmentProj\obj\Debug\WATIAssignmentProj.dll

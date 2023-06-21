@@ -15,8 +15,9 @@ namespace WATIAssignmentProj.Controllers
         {
 
             var _objBLL = new CalculationHistoryBLL();
+            var cacl = new Calculation();
 
-            decimal sum = num1 + num2;
+            decimal sum = cacl.Sum(num1, num2);
 
             int res = _objBLL.Add(new Models.CalculationHistory() { Num1 = num1, Num2 = num2, Result = sum, Type = "Sum" });
 

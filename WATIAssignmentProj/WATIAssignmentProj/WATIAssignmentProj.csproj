@@ -108,6 +108,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Logics\BLL\Calculation.cs" />
     <Compile Include="Logics\BLL\CalculationHistoryBLL.cs" />
     <Compile Include="Logics\DAL\WATIAssignmentContext.cs" />
     <Compile Include="Models\CalculationHistory.cs" />
